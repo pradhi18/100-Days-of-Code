@@ -36,6 +36,7 @@
 | Kushagra Shekhawat             |YES   |YES     |
 | Shashwat Shukla                |YES   |TRY     |
 | Vaibhav Kumar                  |YES   |NO      |
+| Pradhi Das                     |YES   |YES     |
 
 > 100 Days of Code will start from 13/01/2020
 
